@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片转复古套色版画"
+  short_description: "大留白、粗颗粒墨层、人物背影的照片插画转换，可添加核实后的地点标签"
+  default_prompt: "请使用 $photo-to-vintage-print 将这张照片转换为复古套色版画，并添加核实后的地点标签。"
