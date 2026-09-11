@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
-  <title id="title">统一的图文占位与四边留白</title>
-  <desc id="desc">图文整体放在横版纸面中央，左右各至少留百分之二十二，顶部和底部各至少留百分之二十五。</desc>
-  <rect width="960" height="480" rx="20" fill="#f5f2ea"/>
-  <g font-family="sans-serif" fill="#344e59">
-    <text x="48" y="62" font-size="25" font-weight="bold">先组合图文，再整体缩小居中</text>
-    <rect x="60" y="106" width="440" height="330" rx="3" fill="#fffdf6" stroke="#c9c5b9"/>
-    <rect x="156.8" y="188.5" width="246.4" height="165" rx="2" fill="#e4ebe4" stroke="#567263" stroke-dasharray="6 5"/>
-    <text x="280" y="165" text-anchor="middle" font-size="15">顶部 ≥ 25%</text>
-    <text x="280" y="385" text-anchor="middle" font-size="15">底部 ≥ 25%</text>
-    <text x="107" y="273" text-anchor="middle" font-size="14">≥ 22%</text>
-    <text x="452" y="273" text-anchor="middle" font-size="14">≥ 22%</text>
-    <path d="M196 291 L236 239 L259 264 L281 226 L344 291 Z" fill="#758c7b"/>
-    <path d="M196 299 H344" stroke="#758c7b" stroke-width="4"/>
-    <text x="280" y="330" text-anchor="middle" font-size="16">可选地点标签</text>
-    <text x="550" y="182" font-size="21" font-weight="bold">安全框：宽 56% × 高 50%</text>
-    <text x="550" y="224" font-size="17">绘画、文字、枝叶和倒影均计入外沿</text>
-    <text x="550" y="262" font-size="17">长宽等比缩放，不拉伸、不填满</text>
-    <text x="550" y="300" font-size="17">场景内部保留主旨所需的天光</text>
-    <text x="550" y="355" font-size="15" fill="#637a6b">此图展示占位规则，不作为插画风格参考。</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+<title id="title">首次生成完成自然留白与复古排字</title>
+<desc id="desc">把场景、留白与文字一起设计，保留协调的原生构图；文字包含当地语言地名和拍摄日期。</desc>
+<rect width="960" height="420" rx="20" fill="#f5f2ea"/>
+<g font-family="sans-serif" fill="#344e59">
+<text x="48" y="62" font-size="26" font-weight="bold">让留白成为构图的一部分</text>
+<text x="48" y="101" font-size="17">首次生成统一设计，不追加固定画框，不例行缩小图文。</text>
+<path d="M48 141 H912" stroke="#c9c5b9"/>
+<text x="48" y="199" font-size="22" font-weight="bold">01 场景有主旨</text>
+<text x="48" y="242" font-size="17">保留关键光色与空间关系</text>
+<text x="48" y="276" font-size="17">主体够大，墨层颗粒可见</text>
+<text x="356" y="199" font-size="22" font-weight="bold">02 留白自然</text>
+<text x="356" y="242" font-size="17">四边舒展，左右不贴边</text>
+<text x="356" y="276" font-size="17">已协调的构图直接保留</text>
+<text x="660" y="199" font-size="22" font-weight="bold">03 文字有韵味</text>
+<text x="660" y="242" font-size="17">当地语言地名 ＋ 拍摄日期</text>
+<text x="660" y="276" font-size="17">复古字形，准确且易读</text>
+<text x="48" y="363" font-size="16" fill="#637a6b">只针对贴边、截断或拥挤作修正；保留已经合适的主体尺度与文字大小。</text>
+</g></svg>
